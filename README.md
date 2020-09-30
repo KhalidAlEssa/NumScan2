@@ -7,6 +7,8 @@ Get Info For Any Number !!!
 
 git clone https://github.com/KalidOp/NumScan2.git
 
+cd NumScan2
+
 chmod +x NumScan2.sh
 
 ./NumScan2.sh
