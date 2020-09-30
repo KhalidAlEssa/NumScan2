@@ -10,3 +10,4 @@ chmod +x NumScan.sh
 ./NumScan.sh
 
 Thx ---> @00017z - Lord
+
