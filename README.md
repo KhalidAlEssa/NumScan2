@@ -5,9 +5,9 @@ Get Info For Any Number !!!
 
 # Use
 
-chmod +x NumScan.sh
+chmod +x NumScan2.sh
 
-./NumScan.sh
+./NumScan2.sh
 
 Thx ---> @00017z - Lord
 
