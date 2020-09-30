@@ -3,7 +3,9 @@ Get Info For Any Number !!!
 
 
 
-# Use
+# Linux :
+
+git clone https://github.com/KalidOp/NumScan2.git
 
 chmod +x NumScan2.sh
 
