@@ -25,5 +25,5 @@ sudo ./update.sh
 
 # Account
 
- instagram >> (https://instagram.com/t8qu_ )
+ instagram >> (https://www.instagram.com/t8qu_/)
  instagram >> (https://instagram.com/00017z)
